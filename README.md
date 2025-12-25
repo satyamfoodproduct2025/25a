@@ -79,8 +79,10 @@ npm run deploy
 
 ## URLs
 
+- **Live Demo**: https://3000-ic2q5x2lc9qq2u3pctqtr-5185f4aa.sandbox.novita.ai
+- **GitHub Repository**: https://github.com/satyamfoodproduct2025/25a
 - Development: http://localhost:3000
-- Production: Will be deployed to Cloudflare Pages
+- Production: Ready for Cloudflare Pages deployment
 
 ## Important Notes
 
